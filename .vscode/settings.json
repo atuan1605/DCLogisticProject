@@ -1,0 +1,7 @@
+{
+  "prettier.vueIndentScriptAndStyle": true,
+  "[vue]": {
+    "editor.formatOnSave": true,
+    "editor.defaultFormatter": "Vue.volar"
+  },
+}
